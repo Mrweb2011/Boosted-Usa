@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.rasm{
+    height: 300px;
+}
+header{
+    background-color: white;
+    display: flex;
+}
+header img{
+    margin-left: 30px;
+}
+ul{
+    display: flex;
+    margin-left: 200px;
+}
+ul li{
+    display: flex;
+    list-style: none;
+    font-size: 800;
+    font-family: sans-serif;
+    align-items: center;
+    margin-left: 30px;
+    margin: 10px;
+}
+.background_samokat{
+    background-image: url(Assets/Samokat.png);
+    font-family: sans-serif;
+}
+.background_samokat h1{
+    text-align: center;
+}
+.background_samokat p{
+    text-align: center;
+}
+.background_samokat button{
+    background-color: #FF4A32;
+    border: none;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    border-radius: 35px;
+    margin-left: 20px;
+}
+.btn{
+    text-align: center;
+}
+.background_samokat img{
+    width: 500px;
+}
+.background_samokat img{
+    height: 30px;
+}
+.Chiziq{
+    background-color: black;
+    height: 50px;
+}
+.Chiziq img{
+    height: 40px;
+    width: 100px;
+    margin-left: 150px;
+    margin-top: 5px;
+    align-items: center;
+}
+.Rasm_2tali{
+    display: flex;
+    gap: 20px;
+    margin-left: 250px;
+    margin-bottom: 10px;
+}
+.Rasm_2tali img{
+    width: 400px;
+    height: 400px;
+}
+.div2 h1{
+    font-family: sans-serif;
+    color: #000000;
+    line-height: 50px;
+    text-align: center;
+}
+.div2 p{
+    line-height: 25px;
+    font-family: sans-serif;
+    color: #000000;
+    text-align: center;
+}
+.Electrical_samokat{
+    background-image: url(Assets/Bolla.png);
+    font-family: sans-serif;
+}
+.Electrical_samokat h5{
+    margin-top: 20px;
+    text-align: center;
+}
+.Electrical_samokat h1{
+    text-align: center;
+}
+.Electrical_samokat p{
+    text-align: center;
+}
+.Electrical_samokat button{
+    background-color: #FF4A32;
+    border: none;
+    color: white;
+    padding: 7px 25px 7px 25px;
+    border-radius: 35px;
+    margin-left: 630px;
+    margin-top: 20px;
+}
+.h5_h1{
+    margin-top: px;
+}
+.Rasm_2tali2{
+    display: flex;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.Rasm_2tali2 img{
+    width: 380px;
+    height: 380px;
+    margin-left: 20px;
+}
+.Shop_Now2{
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+.Shop_Now2 h1{
+    color: #000000;
+    line-height: 30px;
+}
+.Shop_Now2 p{
+    line-height: 20px;
+    color: #000000;
+}
+.Shop_Now2 button{
+    background-color: #FF4A32;
+    border: none;
+    color: white;
+    padding: 10px 20px 10px 20px;
+    border-radius: 35px;
+    margin-top: 20px;
+}
+.div-4{
+    display: flex;
+    gap: 20px;
+}
+.div-4 img{
+    width: 400px;
+    height: 400px;
+}
